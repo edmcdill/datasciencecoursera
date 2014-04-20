@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Coursera Assignment repot
+Coursera Assignment repo
